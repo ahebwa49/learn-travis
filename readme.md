@@ -1,5 +1,6 @@
 
 
+[![Build Status](https://travis-ci.com/ahebwa49/learn-travis.svg?branch=master)](https://travis-ci.com/ahebwa49/learn-travis)
 # My first travis build
 
 # Livingstone Asabahebwa
